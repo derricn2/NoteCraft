@@ -16,5 +16,5 @@ This application provides a landing page with a link to a note taking page. When
 
 ## Links
 
-- Deployed Application: https://git.heroku.com/sleepy-stream-54754.git
+- Deployed Application: https://sleepy-stream-54754-bba5c5611641.herokuapp.com/
 - Github: https://github.com/derricn2/NoteCraft
