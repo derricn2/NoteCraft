@@ -10,9 +10,9 @@ This application provides a landing page with a link to a note taking page. When
 
 [def]: ./public/assets/images/Note-Taker-Homepage.png
 
-![Note taking app note taking portion] [def]
+![Note taking app note taking portion][2]
 
-[def]: ./public/assets/images/Note-Taker-Application.png
+[2]: ./public/assets/images/Note-Taker-Application.png
 
 ## Links
 
